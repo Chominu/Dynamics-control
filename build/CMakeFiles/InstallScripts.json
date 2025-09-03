@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/chominwoo/go1_dynamics_SRBM/GO1/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
