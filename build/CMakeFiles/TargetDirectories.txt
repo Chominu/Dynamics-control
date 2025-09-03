@@ -1,5 +1,0 @@
-/home/chominwoo/go1_dynamics_SRBM/GO1/build/CMakeFiles/simulate.dir
-/home/chominwoo/go1_dynamics_SRBM/GO1/build/CMakeFiles/controllers.dir
-/home/chominwoo/go1_dynamics_SRBM/GO1/build/CMakeFiles/test.dir
-/home/chominwoo/go1_dynamics_SRBM/GO1/build/CMakeFiles/edit_cache.dir
-/home/chominwoo/go1_dynamics_SRBM/GO1/build/CMakeFiles/rebuild_cache.dir
